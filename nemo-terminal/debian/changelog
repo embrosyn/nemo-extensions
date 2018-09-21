@@ -22,6 +22,12 @@ nemo-terminal (4.0.0) tessa; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Thu, 01 Nov 2018 13:53:56 +0000
 
+nemo-terminal (3.8.2-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Fri, 21 Sep 2018 20:37:30 +0200
+
 nemo-terminal (3.8.0) tara; urgency=medium
 
   * 3.8.0
