@@ -1,3 +1,9 @@
+nemo-terminal (3.8.2-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Fri, 21 Sep 2018 20:37:30 +0200
+
 nemo-terminal (3.8.2) tara; urgency=medium
 
   * 3.8.2
