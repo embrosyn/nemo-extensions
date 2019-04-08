@@ -4,6 +4,12 @@ nemo-share (4.2.0) tina; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Sun, 23 Jun 2019 15:51:10 +0200
 
+nemo-share (4.0.0-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Mon, 08 Apr 2019 20:27:19 +0200
+
 nemo-share (4.0.0) tessa; urgency=medium
 
   * 4.0.0
