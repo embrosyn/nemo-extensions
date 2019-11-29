@@ -1,3 +1,9 @@
+nemo-seahorse (4.2.0-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Fri, 29 Nov 2019 07:11:34 +0100
+
 nemo-seahorse (4.2.0) tina; urgency=medium
 
   * 4.2.0
